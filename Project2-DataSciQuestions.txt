@@ -1,0 +1,14 @@
+# Project2-DataSciQuestions
+
+# Tim Carey - CMP 262
+## 11/2/2025
+
+### Data Science Questions (4 selected out of available questions):
+
+#### In the 2025 Domestic box office dataset, (as of date pulled) in each 'Release Date' month, what movie had the greatest total gross income, and what distributor did it belong to?
+
+#### In the 2024 Domestic box office dataset, do the top monthly distributors match 2025? If not compare by month and year which distributor performed better, and for what movie?
+
+#### In the Latest International Weekends dataset, which countries ('Area') had the biggest 'Weekend Gross'? What were the distributors?
+
+#### In the Domestic Box Office Weekends for 2024, which weekends per month had the greatest Overall Gross revenue?
